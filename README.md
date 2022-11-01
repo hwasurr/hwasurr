@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - My personal blog --> [hwasurr.io](https://hwasurr.io)
-- About me --> [hwasurr.io/about](https://hwasurr.io/about)
+- About me --> [portfolio.hwasurr.io](https://portfolio.hwasurr.io)
 - Contact me --> iamsupermazinga@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwasurr&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
